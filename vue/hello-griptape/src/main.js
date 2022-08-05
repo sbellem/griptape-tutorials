@@ -6,7 +6,9 @@ import {
 } from '@stakeordie/griptape.js';
 
 // Define node to connect to.
-const restUrl = 'https://api.pulsar.griptapejs.com';
+// See https://github.com/scrtlabs/api-registry for endpoint URLs
+// const restUrl = 'https://api.pulsar.griptapejs.com';
+const restUrl = 'https://api.pulsar.scrttestnet.com';
 
 // Get the Keplr provider.
 const provider = getKeplrAccountProvider();

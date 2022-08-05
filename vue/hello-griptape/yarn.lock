@@ -1108,10 +1108,10 @@
   resolved "https://registry.yarnpkg.com/@soda/get-current-script/-/get-current-script-1.0.2.tgz#a53515db25d8038374381b73af20bb4f2e508d87"
   integrity sha512-T7VNNlYVM1SgQ+VsMYhnDkcGmWhQdL0bDyGm5TlQ3GBXnJscEClUUOKduWTmm2zCnvNLC1hc3JpuXjs/nFOc5w==
 
-"@stakeordie/griptape.js@^0.8.6-beta":
-  version "0.8.6-beta"
-  resolved "https://registry.yarnpkg.com/@stakeordie/griptape.js/-/griptape.js-0.8.6-beta.tgz#2fa063108c5a0fc943da2bec83ffb249da5c7912"
-  integrity sha512-yq1HSUxQGpH5T/+Tvxo/exqqnqmpUNZlGtjupntTLCVQy7+LOi77A401Kl661uDqEY3rLGD1WJrizF4V2UetOA==
+"@stakeordie/griptape.js@^0.9.6":
+  version "0.9.6"
+  resolved "https://registry.yarnpkg.com/@stakeordie/griptape.js/-/griptape.js-0.9.6.tgz#072600de9beef58c52e6d3b8b881a50d261a1d77"
+  integrity sha512-b5mEEG+9lPj4nbdJFC3X1O/l6fWNBXyzJx5tas5r8d8BHH0c4i39FZtfialvINFSEg5elaQPHbOhxK7bT35flw==
   dependencies:
     decimal.js "10.2.1"
     secretjs "0.17.5"

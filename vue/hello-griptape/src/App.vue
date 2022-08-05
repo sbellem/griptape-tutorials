@@ -2,7 +2,7 @@
   <div>
     <h1>Hello, Griptape!</h1>
     <p>Is connected? {{isConnected ? "Yes" : "No"}}</p>
-    <button @click="connect">Connect</button>
+    <button @click="connect">Pop!</button>
     <p>Your address is: {{ address }}</p>
     <p>You balance is: {{ balance }}</p>
   </div>
